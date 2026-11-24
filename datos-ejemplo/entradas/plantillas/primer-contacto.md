@@ -84,17 +84,17 @@ Se identifican como "template AI-generated" en segundos (arxiv 2501.15654, 2025:
 
 ---
 
-## Ejemplo — target banca regulada
+## Ejemplo — target sector energía
 
-> Hola Ana, leí tu post de la semana pasada sobre cómo estáis abordando el DPIA para el modelo de scoring en BBVA. Lo pregunto en concreto porque estoy implementando ahora mismo un sistema high-risk Annex III en mi empresa y me he encontrado con un tema parecido al que mencionas sobre [punto específico]. ¿Tu equipo lo está atacando con [enfoque X] o tenéis otro ángulo? Un café cuando te venga, sin compromiso.
+> Hola Ana, leí tu post sobre cómo estáis ajustando las previsiones de demanda con datos meteorológicos en Energía Ejemplo. Te escribo porque llevo un sistema de predicción de demanda en logística y me he encontrado con un tema parecido al que mencionas sobre [punto específico]. ¿Tu equipo lo está atacando con [enfoque X] o tenéis otro ángulo? Un café cuando te venga, sin compromiso.
 
-**Por qué funciona**: 65 palabras (<400 chars LinkedIn-óptimo). Signal-based (post + banco + punto específico). Una pregunta abierta. Soft CTA. Unity implícita (ambos AI Solutions Architects implementando EU AI Act). Salida fácil.
+**Por qué funciona**: 64 palabras (<400 chars LinkedIn-óptimo). Signal-based (post + empresa + punto específico). Una pregunta abierta. Soft CTA. Unity implícita (ambas personas trabajan en predicción de demanda, en sectores distintos). Salida fácil.
 
-## Ejemplo — target AI pura senior
+## Ejemplo — target perfil técnico senior
 
-> Hola Marc, leí tu charla en MLOps Community sobre patterns de eval para agentes multi-paso. La pregunta concreta: en tu stack usáis LLM-as-judge para el critic agent o lo tenéis con métricas deterministas? Estoy montando algo parecido sobre LangGraph y nos hemos topado con drift en el judge. Te leo si te apetece comentarlo, sin presión.
+> Hola Marc, vi tu charla en un meetup de datos sobre cómo validáis los modelos de previsión antes de llevarlos a producción. La pregunta concreta: ¿comparáis contra un modelo base sencillo o tenéis métricas propias del negocio? Estamos montando algo parecido y nos cuesta explicar a negocio cuándo un modelo es "suficientemente bueno". Te leo si te apetece comentarlo, sin presión.
 
-Misma estructura, vocabulario técnico más denso, sin layer de governance (el target es IA pura, no banca regulada).
+Misma estructura, vocabulario más técnico (el target es un perfil técnico, no de negocio).
 
 ---
 

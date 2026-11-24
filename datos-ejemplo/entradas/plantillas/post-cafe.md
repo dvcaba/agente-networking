@@ -60,7 +60,7 @@ Artículo, dato, contacto, observación.
 
 ## Ejemplo
 
-> Ana, gracias por el rato de hoy. Me he quedado dándole vueltas a lo que dijiste sobre el balance entre LLM-as-judge y métricas deterministas — voy a probar esa aproximación esta semana en mi setup. Te dejo además el paper de Anthropic sobre eval scaffolds que mencionaba [link]. Te voy contando cómo avanza.
+> Ana, gracias por el rato de hoy. Me he quedado dándole vueltas a lo que dijiste sobre comparar cada modelo con uno base sencillo — voy a probar esa aproximación esta semana en mi equipo. Te dejo además el artículo sobre previsión de demanda que mencionaba [link]. Te voy contando cómo avanza.
 
 48 palabras. Cuatro elementos en cuatro líneas: agradecimiento específico + acción concreta + recurso devuelto + puerta abierta.
 

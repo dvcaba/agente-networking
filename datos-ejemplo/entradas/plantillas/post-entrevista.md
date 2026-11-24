@@ -53,9 +53,9 @@ Solo si fue realmente importante. NO te disculpes por todo.
 
 ## Ejemplo
 
-> [Nombre], gracias por la conversación de hoy. Me ha encajado especialmente lo que comentaste sobre el approach que tenéis con DPIAs incrementales para los modelos high-risk — es exactamente el problema que estoy resolviendo ahora en mi empresa. Aprovecho para añadir, por si fuera útil para vuestra evaluación: además del trabajo en high-risk Annex III, llevo medio año implementando observabilidad con Langfuse sobre los pipelines de eval, que mencionabas como prioridad para Q3. Atento a los siguientes pasos.
+> [Nombre], gracias por la conversación de hoy. Me ha encajado especialmente lo que comentaste sobre cómo estáis usando la previsión meteorológica para planificar la red — es exactamente el tipo de problema en el que quiero trabajar. Aprovecho para añadir, por si fuera útil para vuestra evaluación: además del sistema de predicción de demanda que usan 40 almacenes, llevo un año midiendo su precisión semana a semana, algo que mencionabas como prioridad para el próximo trimestre. Atento a los siguientes pasos.
 
-84 palabras. Agradecimiento específico + interés concreto + punto reforzante específico + cierre sin muletillas.
+81 palabras. Agradecimiento específico + interés concreto + punto reforzante específico + cierre sin muletillas.
 
 ---
 

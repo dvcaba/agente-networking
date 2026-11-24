@@ -15,7 +15,7 @@ NO es vender ni pedir. Es **aportar una perspectiva** que el autor y su audienci
 
 - **Aporta algo**: experiencia concreta, un matiz, un dato, o una pregunta que abre conversación.
 - **Demuestra que LEÍSTE el post**: referencia algo específico de él.
-- **Tiene tu ángulo** (broker IA + governance + finanzas) cuando es relevante — sin forzarlo.
+- **Tiene tu ángulo** (lo que te hace distinta, según tu perfil) cuando es relevante — sin forzarlo.
 - **Breve**: 2-4 frases. Los comentarios largos no se leen.
 
 ---
@@ -40,9 +40,9 @@ NO es vender ni pedir. Es **aportar una perspectiva** que el autor y su audienci
 
 ## Ejemplo
 
-Post (de un Head of AI Risk en banca) sobre los retos del DPIA en modelos de scoring:
+Post (de una responsable de datos en una eléctrica) sobre los retos de mantener al día los modelos de previsión:
 
-> El punto de los DPIAs incrementales me parece clave — en mi experiencia el cuello de botella no es el primer DPIA sino mantenerlo vivo cuando el modelo se reentrena cada sprint. ¿Lo automatizáis o lo hacéis ad-hoc por release?
+> El punto de reentrenar los modelos me parece clave — en mi experiencia el cuello de botella no es el primer modelo sino mantenerlo fiable cuando la demanda cambia de patrón cada temporada. ¿Lo revisáis de forma automática o caso a caso?
 
 **Por qué funciona**: referencia específica al post + aporte de experiencia concreta + pregunta abierta. Breve. Sin pedir nada. Activa Unity (ambos en el mismo problema) sin nombrarla.
 

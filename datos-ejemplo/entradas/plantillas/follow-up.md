@@ -79,13 +79,13 @@ Stop tras touch 4 sin respuesta. Reintentar en 2-3 meses si surge buen pretexto 
 
 ### Touch 3 — value-add
 
-> Hola Ana, retomo aprovechando que ha salido el draft de la guía de FINMA sobre AI/model risk — [link]. Pega bastante con lo que mencionabas en tu post sobre DPIA. Te lo paso por si lo encuentras útil. Te leo.
+> Hola Ana, retomo aprovechando que ha salido un informe sobre previsión de demanda en el sector energético — [link]. Pega bastante con lo que mencionabas en tu post sobre datos meteorológicos. Te lo paso por si lo encuentras útil. Te leo.
 
 44 palabras. Aporta valor concreto, no pide nada.
 
 ### Touch 4 — break-up
 
-> Ana, te dejo descansar el inbox. Si en algún momento te apetece comentar lo del DPIA, encantado. Un saludo.
+> Ana, te dejo descansar el inbox. Si en algún momento te apetece comentar lo de las previsiones, encantada. Un saludo.
 
 19 palabras. Cierra cordial sin acumular ask.
 

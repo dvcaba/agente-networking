@@ -84,7 +84,7 @@ Aquí NO pides — **abres conversación**. Aporta perspectiva, recurso, o pregu
 
 ### Antiguo compañero que ya está en otra empresa (1 año sin hablar)
 
-> Hola Pablo, hace tiempo que no hablamos. Te escribo porque vi tu post sobre el roll-out del framework de PII en banca privada — me ha hecho pensar en cuánto ha evolucionado desde lo que montamos juntos en el catálogo. ¿Sigues en la misma vertical o estás en algo nuevo? Curiosidad. Te leo.
+> Hola Pablo, hace tiempo que no hablamos. Te escribo porque vi tu post sobre el nuevo panel de previsiones que habéis lanzado en tu empresa — me ha hecho pensar en cuánto ha evolucionado desde aquel primer prototipo que montamos juntos. ¿Sigues en el mismo sector o estás en algo nuevo? Curiosidad. Te leo.
 
 54 palabras. Acknowledgment temporal sin culpabilizar + signal específico (su post + referencia compartida concreta) + pregunta abierta de curiosidad + salida ligera.
 
@@ -96,7 +96,7 @@ Aquí NO pides — **abres conversación**. Aporta perspectiva, recurso, o pregu
 
 ### Compañero de universidad en otro país (3 años sin hablar) — en inglés
 
-> Hi James, it's been a while since we caught up. I saw you've moved into [field] — interesting trajectory given your starting point. I'm currently exploring whether to push more aggressively toward UK-based AI governance roles from Madrid, and I'd really value your read on how the market is shifting on that. No rush, no agenda — just curious. Let me know if a quick chat works for you sometime.
+> Hi James, it's been a while since we caught up. I saw you've moved into [field] — interesting trajectory given your starting point. I'm currently exploring a move into the energy sector, and I'd really value your read on how the market is shifting there. No rush, no agenda — just curious. Let me know if a quick chat works for you sometime.
 
 72 palabras. UK contacts probablemente en inglés. Mismo patrón estructural: gap acknowledgment + signal específico + curiosidad genuina + salida abierta.
 
