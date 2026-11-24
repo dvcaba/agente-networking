@@ -1,0 +1,35 @@
+# Sistema «Networking».
+system: networking
+label: Networking
+purpose: >-
+  Construir y cuidar tus relaciones profesionales: a quién contactar, qué decirle y cuándo
+  volver a escribir.
+icon: diversity_3
+agents:
+- name: assistant
+  title: Coach de networking
+  description: Consulta libre sobre tu networking, con tu perfil, objetivos y estilo como contexto.
+  kind: simple
+  code_ref: sistemas.networking:ASSISTANT
+- name: rag
+  title: Pregunta a tus fuentes de networking
+  description: >-
+    Responde desde la investigación sobre networking, los libros de referencia y los estudios
+    de mercado laboral, citando de dónde sale cada cosa.
+  kind: rag
+  starters:
+  - ¿Qué dicen mis fuentes sobre cold outreach?
+  - ¿Cómo retomo el contacto con alguien con quien llevo años sin hablar?
+- name: investigator
+  title: Investigador de relaciones profesionales
+  description: Investiga con fuentes reales sobre networking y relaciones profesionales, y guarda la nota en la biblioteca.
+  kind: investigator
+  brief: >-
+    Relaciones profesionales de la persona usuaria: networking de alto nivel, cold outreach y
+    construcción de relaciones, con el foco de sector, perfil y mercado que marcan sus
+    objetivos (van en el contexto).
+  context: [sobre-mi.objetivos]
+  inputs:
+  - name: topic
+    label: Tema a investigar
+    help: Qué quieres saber sobre networking o relaciones profesionales

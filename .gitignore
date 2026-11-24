@@ -1,0 +1,38 @@
+.venv/
+__pycache__/
+*.pyc
+*.egg-info/
+.pytest_cache/
+.ruff_cache/
+.DS_Store
+.env
+
+# Tus datos: identidad, contactos, candidatos, estrategia, investigación propia y libros.
+# Nunca se comparten. Lo que se comparte es `datos-ejemplo/`.
+mis-datos/
+
+# Índice de búsqueda: reconstruible, y son decenas de MB de binarios.
+**/.indice/
+**/.rag_index/
+
+# PDF originales de los manuales: las transcripciones .md SÍ se versionan (son el texto que
+# se indexa), pero no los PDF — son pesados y, además, no son material propio para repartir.
+**/originales/
+
+# Imágenes de respaldo de las transcripciones (pesadas; el texto sí se versiona).
+**/images*/
+
+# Hilos de chat: memoria de trabajo, no conocimiento.
+**/.chat/
+
+# Respaldos de las fichas: duplicarían el historial que git ya guarda.
+**/.history/
+
+# Lo que produce el agente: datos generados, no código.
+**/salidas/
+
+# Papelera: lo que se quita desde la interfaz se aparta aquí, no se borra.
+**/.papelera/
+
+# Registro de uso: es de tu máquina y de nadie más.
+.uso/
